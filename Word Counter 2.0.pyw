@@ -68,7 +68,7 @@ def clear_entry1(event):
 window = tk.Tk()
 window.geometry("650x500")
 window.configure(bg="chartreuse3")
-window.iconbitmap("C:/Users/Toshiba/Desktop/gui/karakter finder/__pycache__/w.ico")
+
 
 index1=True
 entry1 = tk.Text(window, width=50, height=20, bg="Light Sea Green", borderwidth=5)
